@@ -11,4 +11,3 @@ svn export --force https://github.com/openwrt/openwrt/trunk/package/firmware/ipq
 #sh -c "curl -sfL https://patch-diff.githubusercontent.com/raw/openwrt/openwrt/pull/10778.patch | git apply -p1"
 
 
-
